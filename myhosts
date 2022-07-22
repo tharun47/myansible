@@ -1,0 +1,9 @@
+[mywebservers]
+172.31.32.34
+
+
+[mywebservers.vars]
+myserverpackonubuntu= apache2
+myserverpackonredhat= httpd
+myjavapackonubuntu: openjdk-8-jre
+myjavapackonredhat: java-1.8.0-openjdk
