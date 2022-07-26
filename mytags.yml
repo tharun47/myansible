@@ -1,5 +1,5 @@
 ---
-- hosts: 172.31.32.34
+- hosts: all
   become: yes
   tasks:
   - name: git
